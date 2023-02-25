@@ -3,6 +3,7 @@ public class Deneme {
         System.out.println("Merhaba");
         System.out.println("Dunya");
         System.out.println("B129");
+        //git
         //restore tamamen working space'i temizler
         //stash silmeden hafizaya alir geri getirebiliriz.gecici olarak kaldirir.
 
