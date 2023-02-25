@@ -7,6 +7,7 @@ public class Deneme {
         //Merhaba Dunya
         //GitHub
         //GitHub 2.deneme
+        //Fatma Branch
         //restore tamamen working space'i temizler
         //stash silmeden hafizaya alir geri getirebiliriz.gecici olarak kaldirir.
 
