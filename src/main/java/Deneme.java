@@ -5,7 +5,7 @@ public class Deneme {
         System.out.println("B129");
         //git
         //Merhaba Dunya
-
+        //GitHub
         //restore tamamen working space'i temizler
         //stash silmeden hafizaya alir geri getirebiliriz.gecici olarak kaldirir.
 
